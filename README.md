@@ -311,6 +311,12 @@ cd Bridge-et1rn
 cd updatev6
 ```
 ```
+pip install web3==6.20.1
+```
+```
+pip install web3==6.20.1 --upgrade
+```
+```
 python t1rnmultiv6_auto.py
 ```
 ```
